@@ -5,7 +5,6 @@ tasks, and help promote research and innovation within the institution. We use G
 is created using Streamlit, which allows users to input questions and receive answers directly from the model.
 
 # My Objectives:
-Our Objectives
 1. Develop a Custom Academic LLM for Complete Institutional Support The development involves the following key steps:
 • Build a Language Model from Scratch: Begin by constructing the core ar-
 chitecture of the LLM tailored to institutional needs, enabling advanced language
