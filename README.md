@@ -6,16 +6,16 @@ is created using Streamlit, which allows users to input questions and receive an
 
 # My Objectives:
 1. Develop a Custom Academic LLM for Complete Institutional Support The development involves the following key steps:
-• Build a Language Model from Scratch: Begin by constructing the core ar-
+- Build a Language Model from Scratch: Begin by constructing the core ar-
 chitecture of the LLM tailored to institutional needs, enabling advanced language
 understanding and generation capabilities.
-• Initialize with Pretrained GPT-2 Weights: Leverage GPT-2’s pretrained
+- Initialize with Pretrained GPT-2 Weights: Leverage GPT-2’s pretrained
 weights to establish a strong foundational understanding of general language
 while minimizing training time and resource use.
-• Perform General Fine-Tuning: Train the model on a wide range of pub-
+- Perform General Fine-Tuning: Train the model on a wide range of pub-
 lic datasets to enhance its general-purpose language proficiency and contextual
 understanding.
-• Apply Domain-Specific Fine-Tuning on Private Academic Data: Fur-
+- Apply Domain-Specific Fine-Tuning on Private Academic Data: Fur-
 ther fine-tune the model using internal academic data, allowing it to learn spe-
 cialized vocabulary, institutional processes, and context-specific knowledge for more accurate, relevant responses.
 
